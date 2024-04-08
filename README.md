@@ -1,1 +1,7 @@
 [![Java CI with Gradle](https://github.com/ktshva/HW_Patterns1/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/ktshva/HW_Patterns1/actions/workflows/gradle-publish.yml)
+![image](https://github.com/ktshva/HW_Patterns1/assets/149160692/abc61349-5c3a-45ca-bd6c-1dc2a80547a2)
+![image](https://github.com/ktshva/HW_Patterns1/assets/149160692/27851fc8-f32c-4cdd-bc81-0d6df75292e4)
+![image](https://github.com/ktshva/HW_Patterns1/assets/149160692/0b156219-2d94-4761-8473-439ba2fbc3f8)
+![image](https://github.com/ktshva/HW_Patterns1/assets/149160692/46e0915a-cc72-428d-b0ad-38426a482463)
+![image](https://github.com/ktshva/HW_Patterns1/assets/149160692/ba365867-c96b-49ae-a782-8c1bf6878b91)
+![image](https://github.com/ktshva/HW_Patterns1/assets/149160692/49ba63ad-efbf-4c56-a816-5c44774d77c7)
